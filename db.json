@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "name": "Cloth3",
+      "description": "plowejbei",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": 1090,
+      "id": 3
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "name": "Cloth4",
+      "description": "mnfeibwbio",
+      "gender": "Female",
+      "category": "Jackets",
+      "price": 689,
+      "id": 4
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "name": "Cloth5",
+      "description": "mnfeibwbio",
+      "gender": "Male",
+      "category": "Trouser",
+      "price": 999,
+      "id": 5
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RoZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "name": "Cloth6",
+      "description": "mnfeibwbio",
+      "gender": "Female",
+      "category": "Saree",
+      "price": 2999,
+      "id": 6
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdGhpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "name": "cloth1",
+      "description": "feomeo",
+      "gender": "Female",
+      "category": "Jackets",
+      "price": 578,
+      "id": 7
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdGhpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "name": "cloth2",
+      "description": "vfdeae",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": 299,
+      "id": 8
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdGhpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+      "name": "cloth10",
+      "description": "vfdeae",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": 2299,
+      "id": 9
+    }
+  ]
+}
