@@ -64,22 +64,5 @@
       "id": 9
     }
   ],
-  "users": [
-    {
-      "name": "MAx",
-      "correct": 1,
-      "incorrect": 4,
-      "percentage": 20,
-      "total": 1,
-      "id": 1
-    },
-    {
-      "name": "boomer",
-      "correct": 2,
-      "incorrect": 8,
-      "percentage": 20,
-      "total": 2,
-      "id": 2
-    }
-  ]
+  "users": []
 }
